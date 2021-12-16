@@ -5,3 +5,5 @@ echo $USERNAME
 read -P "Please enter the password :" PASSWORD
 echo $PASSWORD
 echo "This is test file script "
+echo $pwd
+echo $pip
